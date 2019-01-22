@@ -1,0 +1,8 @@
+# Default
+__pycache__
+
+# Apple generated
+.DS_Store
+
+# Vscode generated
+.vscode
